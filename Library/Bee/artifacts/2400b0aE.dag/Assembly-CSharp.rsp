@@ -345,6 +345,7 @@
 "Assets/Scripts/Movement/MoveData.cs"
 "Assets/Scripts/Movement/MovePhysics.cs"
 "Assets/Scripts/Movement/ScamperController.cs"
+"Assets/Scripts/Orientation.cs"
 -langversion:9.0
 
 /deterministic

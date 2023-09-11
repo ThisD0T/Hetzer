@@ -8,6 +8,7 @@ namespace Scamper.Movement {
     {
         [Header ("Jumping and Gravity")]
         public bool autoBhop;
+        public float jumpForce;
         public float gravity;
 
         [Header ("Ground Movement")]
